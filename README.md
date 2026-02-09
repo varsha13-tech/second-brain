@@ -2,6 +2,8 @@ Second Brain
 
 Live Application: https://second-brain-six-kappa.vercel.app
 
+Task 2 – Hedamo Product Analysis Video: https://www.loom.com/share/92811c5b29cb49feb5862a70e9c17b66
+
 Second Brain is a personal knowledge management app — a simple “second brain” where you can capture notes, links, and ideas, and use AI to make sense of them over time.
 
 This project was built as part of the Altibbe / Hedamo Full-Stack Engineering Internship Assessment.
