@@ -1,0 +1,379 @@
+
+> vite_react_shadcn_ts@0.0.0 test
+> vitest run --run
+
+
+[1m[46m RUN [49m[22m [36mv3.2.4 [39m[90mD:/project/mind-garden-main[39m
+
+ [32mΓ£ô[39m src/test/example.test.ts [2m([22m[2m1 test[22m[2m)[22m[32m 3[2mms[22m[39m
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should return AI-generated tags with fallback: false on success
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should return AI-generated tags with fallback: false on success
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should return local fallback tags with fallback: true on 404
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should return local fallback tags with fallback: true on 404
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should return local fallback tags with fallback: true on 500
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should return local fallback tags with fallback: true on 500
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should return local fallback tags on network error
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should return local fallback tags on network error
+Auto-tag error: Error: Network error
+    at D:\project\mind-garden-main\src\hooks\useAI.test.ts:291:28
+    at file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:155:11
+    at file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:752:26
+    at file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:1897:20
+    at new Promise (<anonymous>)
+    at runWithTimeout (file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:1863:10)
+    at runTest (file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:1574:12)
+    at processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at runSuite (file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:1729:8)
+    at runSuite (file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:1729:8)
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should set isLoading to true during request
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should set isLoading to true during request
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should send correct request body for auto-tag
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should send correct request body for auto-tag
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should send proper authorization header
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should send proper authorization header
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should handle malformed response gracefully
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > autoTag > should handle malformed response gracefully
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > summarize > should return summary on success
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > summarize > should return summary on success
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > summarize > should return null on error
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > summarize > should return null on error
+Summarization error: Error: Failed
+    at Object.summarize (D:\project\mind-garden-main\src\hooks\useAI.ts:60:15)
+    at D:\project\mind-garden-main\src\hooks\useAI.test.ts:401:23
+    at file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:752:20
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > summarize > should return null on network error
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > summarize > should return null on network error
+Summarization error: Error: Network error
+    at D:\project\mind-garden-main\src\hooks\useAI.test.ts:409:28
+    at file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:155:11
+    at file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:752:26
+    at file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:1897:20
+    at new Promise (<anonymous>)
+    at runWithTimeout (file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:1863:10)
+    at runTest (file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:1574:12)
+    at runSuite (file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:1729:8)
+    at runSuite (file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:1729:8)
+    at runSuite (file:///D:/project/mind-garden-main/node_modules/@vitest/runner/dist/chunk-hooks.js:1729:8)
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > summarize > should send correct request body for summarize
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > summarize > should send correct request body for summarize
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > integration behavior > should use fallback tags when API fails
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+stderr | src/hooks/useAI.test.ts > useAI > integration behavior > should use fallback tags when API fails
+Warning: An update to TestComponent inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://reactjs.org/link/wrap-tests-with-act
+    at TestComponent (D:\project\mind-garden-main\node_modules\@testing-library\react\dist\pure.js:328:5)
+
+ [32mΓ£ô[39m src/hooks/useAI.test.ts [2m([22m[2m33 tests[22m[2m)[22m[32m 190[2mms[22m[39m
+
+[2m Test Files [22m [1m[32m2 passed[39m[22m[90m (2)[39m
+[2m      Tests [22m [1m[32m34 passed[39m[22m[90m (34)[39m
+[2m   Start at [22m 14:59:37
+[2m   Duration [22m 1.90s[2m (transform 91ms, setup 248ms, collect 395ms, tests 193ms, environment 1.37s, prepare 312ms)[22m
+
